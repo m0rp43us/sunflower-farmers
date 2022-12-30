@@ -30,7 +30,7 @@
     "react-scripts": "3.4.3",
     "reactour": "^1.18.6",
     "styled-components": "^4.0.0",
-    "truffle": "5.1.63",
+    "truffle": "5.7.1",
     "truffle-hdwallet-provider-privkey": "0.3.0",
     "web3": "1.2.6",
     "xstate": "^4.20.0"
